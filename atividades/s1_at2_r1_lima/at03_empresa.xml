@@ -1,0 +1,14 @@
+<!--Exercício 3: Empresa 
+Analise o Código 
+<?xml version=1.0 encoding="UTF-8"> 
+<empresa> 
+ <nome>Tech & Sistemas</nome>  <cidade>Curitiba</cidade> 
+</empresa>-->
+
+<!--Correção-->
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Exercício 3: Empresa -->
+<empresa>
+    <nome>Tech &amp; Sistemas</nome>
+    <cidade>Curitiba</cidade>
+</empresa>
