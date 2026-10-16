@@ -1,0 +1,10 @@
+body {
+    background-color: #121214;
+    color: #FFFFFF;
+    font-family: Arial, sans-serif;
+    font-size: 13px;
+}
+hr {
+    border: 1px solid #FFFFFF;
+    margin: 20px 0;
+}
